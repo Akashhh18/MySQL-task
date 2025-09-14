@@ -15,4 +15,7 @@ INSERT INTO book_review (book_id, review, author) VALUES
 (7, 'Intriguing mystery, well written', 'sampath'),
 (8, 'Simple yet profound story', 'deepika'),
 (9, 'Beautifully written classic', 'chandana'),
-(10, 'A rich fantasy world beautifully crafted', 'naveen');
+(10, 'A rich fantasy world beautifully crafted', 'naveen'),
+(11, 'Gripping dystopian adventure', 'rahul'),
+(12, 'Dark, twisty psychological thriller', 'sneha'),
+(13, 'Smart, funny and scientifically accurate', 'karthik');

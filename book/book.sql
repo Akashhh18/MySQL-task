@@ -18,5 +18,8 @@ INSERT INTO book (id, author_id, title, publish_year, publishing_house, rating) 
 (7, 7, 'Murder on the Orient Express', 1934, 'Collins Crime Club', 4.40),
 (8, 8, 'The Old Man and the Sea', 1952, 'Charles Scribner''s Sons', 4.10),
 (9, 9, 'The Great Gatsby', 1925, 'Charles Scribner''s Sons', 4.00),
-(10, 10, 'The Hobbit', 1937, 'George Allen & Unwin', 4.90);
+(10, 10, 'The Hobbit', 1937, 'George Allen & Unwin', 4.90),
+(11, 11, 'The Hunger Games', 2008, 'Scholastic Press', 4.50),
+(12, 12, 'Gone Girl', 2012, 'Crown Publishing Group', 4.30),
+(13, 13, 'The Martian', 2011, 'Crown Publishing Group', 4.70);
 

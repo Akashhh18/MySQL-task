@@ -17,4 +17,7 @@ INSERT INTO adaptation (book_id, type, title, release_year, rating) VALUES
 (7, 'Movie', 'Murder on the Orient Express', 1974, 4.60),
 (8, 'Movie', 'The Old Man and the Sea', 1958, 3.90),
 (9, 'Movie', 'The Great Gatsby', 2013, 4.20),
-(10, 'Movie', 'The Hobbit: An Unexpected Journey', 2012, 4.80);
+(10, 'Movie', 'The Hobbit: An Unexpected Journey', 2012, 4.80),
+(11, 'Movie', 'The Hunger Games', 2012, 4.60),
+(12, 'TV series', 'Gone Girl', 2014, 4.40),
+(13, 'Movie', 'The Martian', 2015, 4.80);

@@ -15,5 +15,8 @@ INSERT INTO author (id, name, birth_year, death_year) VALUES
 (7, 'Agatha Christie', 1890, 1976),
 (8, 'Ernest Hemingway', 1899, 1961),
 (9, 'F. Scott Fitzgerald', 1896, 1940),
-(10, 'J.R.R. Tolkien', 1892, 1973);
+(10, 'J.R.R. Tolkien', 1892, 1973);,
+(11, 'Suzanne Collins', 1962, NULL),
+(12, 'Gillian Flynn', 1971, NULL),
+(13, 'Andy Weir', 1972, NULL);
 
